@@ -1,0 +1,9 @@
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\bin\Release\SQLNamesStringSplitter.exe.config
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\bin\Release\SQLNamesStringSplitter.exe
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\bin\Release\SQLNamesStringSplitter.pdb
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.Form1.resources
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.Properties.Resources.resources
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.csproj.GenerateResource.Cache
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.exe
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.pdb
+C:\Users\mcouture\Desktop\SQLNamesStringSplitter\SQLNamesStringSplitter\obj\Release\SQLNamesStringSplitter.csprojResolveAssemblyReference.cache
